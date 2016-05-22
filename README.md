@@ -1,5 +1,7 @@
 # DebounceClick
 
+[![](https://jitpack.io/v/twiceyuan/DebounceClick.svg)](https://jitpack.io/#twiceyuan/DebounceClick)
+
 防止按钮重复点击一种简单、适应性广的方案
 
 ### 演示效果
