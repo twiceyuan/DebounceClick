@@ -42,4 +42,4 @@ DebounceClick.onClick(findViewById(R.id.button3), new Callback() {
 
 ### 感谢
 
-感谢 RxDebounceClick（https://github.com/SmartDengg/RxDebounceClick）提供的使用场景，这里测试用例和取名都参考了它
+感谢 [RxDebounceClick](https://github.com/SmartDengg/RxDebounceClick) 提供的使用场景，这里测试用例和取名都参考了它
