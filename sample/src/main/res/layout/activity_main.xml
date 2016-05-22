@@ -9,7 +9,7 @@
 
     <Button
         android:id="@+id/button1"
-        android:text="默认 Debounce"
+        android:text="Button 1: 默认 Debounce"
         android:layout_margin="16dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -17,7 +17,7 @@
 
     <Button
         android:id="@+id/button2"
-        android:text="2000 ms 后恢复"
+        android:text="Button 2: 2000 ms 后恢复"
         android:layout_margin="16dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -25,7 +25,7 @@
 
     <Button
         android:id="@+id/button3"
-        android:text="点击其他按钮恢复这个按钮"
+        android:text="Button 3: 点击其他按钮恢复这个按钮"
         android:layout_margin="16dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
